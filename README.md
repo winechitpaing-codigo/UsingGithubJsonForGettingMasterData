@@ -92,6 +92,5 @@ MaterialAlertDialogBuilder(this)
                 .setNegativeButton(it.forceUpdate)
                 .show()
 ```
-
-(https://raw.githubusercontent.com/winechitpaing-codigo/sample-app-updater-with-github-json-file/master/Screenshot%202022-08-27%20at%203.21.56%20PM.png)
-(https://raw.githubusercontent.com/winechitpaing-codigo/sample-app-updater-with-github-json-file/master/Screenshot%202022-08-27%20at%203.23.01%20PM.png)
+![AppUpdater](https://raw.githubusercontent.com/winechitpaing-codigo/sample-app-updater-with-github-json-file/master/Screenshot%202022-08-27%20at%203.21.56%20PM.png)
+![AppUpdater](https://raw.githubusercontent.com/winechitpaing-codigo/sample-app-updater-with-github-json-file/master/Screenshot%202022-08-27%20at%203.23.01%20PM.png)
