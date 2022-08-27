@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingGithubJsonForGettingMasterData</string>
+    <string name="label_update">Update</string>
+    <string name="label_skip">Skip</string>
+</resources>
