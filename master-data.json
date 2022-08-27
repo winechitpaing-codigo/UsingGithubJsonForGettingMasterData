@@ -1,0 +1,9 @@
+{
+  "updateTitle" : "Update available!",
+  "updateMessage" : "An update for {appname} is available on Play Store. Please update to version 1.0.1",
+  "versionCode" : 1,
+  "versionName" : "1.0.0",
+  "forceUpdate": false,
+  "forceUpdateMessage" : "Please update to version 1.0.1",
+  "storeLink" : "https://play.google.com/store/apps"
+}
